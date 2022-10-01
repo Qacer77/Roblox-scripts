@@ -1,0 +1,4 @@
+local torso = Instance.new("Part")
+torso.Name = "LowerTorso"
+torso.Parent = game.Players.LocalPlayer.Character
+game.Players.LocalPlayer.Character.LowerTorso:Destroy()
