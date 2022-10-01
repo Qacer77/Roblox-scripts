@@ -3,7 +3,7 @@ if not game:IsLoaded() then
 end
 
 _G.AutoFarm = true
-_G.NpcName = "combat trainers"
+_G.NpcName = "combat trainers" --use scouter to find name of npc change the combat trainsers to whatever you want non cap sence
 _G.FormName = "mystic"
 
 local Player = game.Players.LocalPlayer
